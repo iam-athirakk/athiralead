@@ -1,7 +1,7 @@
 # athiralead
 << just a look at me below who I am" >>
 
-👨‍🎓 I'm a Student learning new technologies related to DevOps
+👨‍🎓 I'm a Student learning new technologies related to DevOps     
 🔭 I’m currently working in Kyndryl 
 👨‍🏫 I'm a Community Leader at @CloudnLoud Tech Community
 💬 Ask me about anything, I am happy to help
