@@ -2,7 +2,7 @@
 << just a look at me below who I am" >>
 
 👨‍🎓 I'm a Student learning new technologies related to DevOps     
-🔭 I’m currently working in Kyndryl                          
+🔭 I’ve employed in IBM and Kyndryl. Now doing Freelancing.                          
 👨‍🏫 I'm a Calico Big Cats Ambassador and WomenTech Global Ambassador          
 💬 Ask me about anything, I am happy to help           
 ✍ I'm a Technical blogger                
